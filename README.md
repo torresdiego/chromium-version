@@ -9,25 +9,16 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/100.0.4896.75/releases/1649183760",
+      "name": "chrome/platforms/win64/channels/stable/versions/100.0.4896.75/releases/1649270340",
       "serving": {
-        "startTime": "2022-04-05T18:36:00Z"
+        "startTime": "2022-04-06T18:39:00Z"
       },
-      "fraction": 0.5,
+      "fraction": 1,
       "version": "100.0.4896.75",
-      "fractionGroup": "215"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/99.0.4844.84/releases/1649183760",
-      "serving": {
-        "startTime": "2022-04-05T18:36:00Z"
-      },
-      "fraction": 0.5,
-      "version": "99.0.4844.84",
       "fractionGroup": "215"
     }
   ]
 }
 ```
 
-###### Last Update: `2022-04-06T18:00:13Z`
+###### Last Update: `2022-04-06T20:00:15Z`
