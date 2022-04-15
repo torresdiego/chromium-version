@@ -23,4 +23,4 @@ jobs:
           SLACK_TITLE: Fingerprint target reached! ✅ 💥 🚀 💯
           SLACK_MESSAGE: ${{ github.event.head_commit.message }}
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_PERSONAL_URL }}
-          SLACK_FOOTER: ${{ github.event.head_commit.modified }}
+          SLACK_FOOTER: ${{ github.event.head_commit.modified[0] }}
