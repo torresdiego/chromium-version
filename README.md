@@ -15,7 +15,7 @@ Stable Release(s):
       },
       "fraction": 0.5,
       "version": "100.0.4896.127",
-      "fractionGroup": "215"
+      "fractionGroup": "156"
     },
     {
       "name": "chrome/platforms/win64/channels/stable/versions/101.0.4951.54/releases/1651687800",
@@ -24,10 +24,10 @@ Stable Release(s):
       },
       "fraction": 0.5,
       "version": "101.0.4951.54",
-      "fractionGroup": "215"
+      "fractionGroup": "156"
     }
   ]
 }
 ```
 
-###### Last Update: `2022-05-05T18:00:14Z`
+###### Last Update: `2022-05-05T20:00:00Z`
