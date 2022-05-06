@@ -9,16 +9,16 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/101.0.4951.54/releases/1651786740",
+      "name": "chrome/platforms/win64/channels/stable/versions/100.0.4896.127/releases/1651830000",
       "serving": {
-        "startTime": "2022-05-05T21:39:00.056523Z"
+        "startTime": "2022-05-06T09:40:00Z"
       },
       "fraction": 1,
-      "version": "101.0.4951.54",
+      "version": "100.0.4896.127",
       "fractionGroup": "156"
     }
   ]
 }
 ```
 
-###### Last Update: `2022-05-06T08:00:14Z`
+###### Last Update: `2022-05-06T10:00:12Z`
