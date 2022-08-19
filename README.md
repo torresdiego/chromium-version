@@ -9,29 +9,29 @@ Stable Release(s):
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.101/releases/1660775700",
+      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.101/releases/1660864920",
       "serving": {
-        "startTime": "2022-08-17T22:35:00Z"
+        "startTime": "2022-08-18T23:22:00Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.5,
       "version": "104.0.5112.101",
       "fractionGroup": "156"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.81/releases/1660775700",
+      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.81/releases/1660864920",
       "serving": {
-        "startTime": "2022-08-17T22:35:00Z"
+        "startTime": "2022-08-18T23:22:00Z"
       },
-      "fraction": 0.5,
+      "fraction": 1,
       "version": "104.0.5112.81",
       "fractionGroup": "156"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.82/releases/1660775700",
+      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.82/releases/1660864920",
       "serving": {
-        "startTime": "2022-08-17T22:35:00Z"
+        "startTime": "2022-08-18T23:22:00Z"
       },
-      "fraction": 0.25,
+      "fraction": 0.5,
       "version": "104.0.5112.82",
       "fractionGroup": "156"
     }
@@ -39,4 +39,4 @@ Stable Release(s):
 }
 ```
 
-###### Last Update: `2022-08-18T22:00:09Z`
+###### Last Update: `2022-08-19T00:00:09Z`
