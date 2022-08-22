@@ -1,42 +1,24 @@
 # Chromium Version
 
-Current Version: `104.0.5112.82`
+Current Version: `104.0.5112.102`
 
-Version Update: `2022-08-16T20:17:00Z`
+Version Update: `2022-08-22T18:58:00Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.101/releases/1660864920",
+      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.102/releases/1661194680",
       "serving": {
-        "startTime": "2022-08-18T23:22:00Z"
-      },
-      "fraction": 0.5,
-      "version": "104.0.5112.101",
-      "fractionGroup": "156"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.81/releases/1660864920",
-      "serving": {
-        "startTime": "2022-08-18T23:22:00Z"
+        "startTime": "2022-08-22T18:58:00Z"
       },
       "fraction": 1,
-      "version": "104.0.5112.81",
-      "fractionGroup": "156"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/104.0.5112.82/releases/1660864920",
-      "serving": {
-        "startTime": "2022-08-18T23:22:00Z"
-      },
-      "fraction": 0.5,
-      "version": "104.0.5112.82",
+      "version": "104.0.5112.102",
       "fractionGroup": "156"
     }
   ]
 }
 ```
 
-###### Last Update: `2022-08-22T18:00:10Z`
+###### Last Update: `2022-08-22T20:00:09Z`
