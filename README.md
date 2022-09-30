@@ -1,51 +1,33 @@
 # Chromium Version
 
-Current Version: `106.0.5249.62`
+Current Version: `106.0.5249.91`
 
-Version Update: `2022-09-27T17:40:00Z`
+Version Update: `2022-09-30T16:14:00Z`
 
 Stable Release(s):
 ```
 {
   "releases": [
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/105.0.5195.127/releases/1664487120",
+      "name": "chrome/platforms/win64/channels/stable/versions/105.0.5195.127/releases/1664554440",
       "serving": {
-        "startTime": "2022-09-29T21:32:00Z"
+        "startTime": "2022-09-30T16:14:00Z"
       },
-      "fraction": 1,
+      "fraction": 0.9,
       "version": "105.0.5195.127",
-      "fractionGroup": "158"
+      "fractionGroup": "156"
     },
     {
-      "name": "chrome/platforms/win64/channels/stable/versions/105.0.5195.128/releases/1664487120",
+      "name": "chrome/platforms/win64/channels/stable/versions/106.0.5249.91/releases/1664554440",
       "serving": {
-        "startTime": "2022-09-29T21:32:00Z"
+        "startTime": "2022-09-30T16:14:00Z"
       },
-      "fraction": 0,
-      "version": "105.0.5195.128",
-      "fractionGroup": "158"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/106.0.5249.61/releases/1664487120",
-      "serving": {
-        "startTime": "2022-09-29T21:32:00Z"
-      },
-      "fraction": 0,
-      "version": "106.0.5249.61",
-      "fractionGroup": "158"
-    },
-    {
-      "name": "chrome/platforms/win64/channels/stable/versions/106.0.5249.62/releases/1664300400",
-      "serving": {
-        "startTime": "2022-09-27T17:40:00Z"
-      },
-      "fraction": 1,
-      "version": "106.0.5249.62",
-      "fractionGroup": "157"
+      "fraction": 0.1,
+      "version": "106.0.5249.91",
+      "fractionGroup": "156"
     }
   ]
 }
 ```
 
-###### Last Update: `2022-09-30T16:00:00Z`
+###### Last Update: `2022-09-30T18:00:00Z`
