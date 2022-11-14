@@ -15,10 +15,10 @@ Stable Release(s):
       },
       "fraction": 1,
       "version": "107.0.5304.107",
-      "fractionGroup": "156"
+      "fractionGroup": "90"
     }
   ]
 }
 ```
 
-###### Last Update: `2022-11-14T20:00:10Z`
+###### Last Update: `2022-11-14T22:00:14Z`
